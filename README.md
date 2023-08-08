@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Murilo Nogueira</h1>
-<h3 align="center">Desenvolvedor Django com mais de 5 anos de experiência em programação e ciência de dados. Sou apaixonado por resolver problemas complexos e criar soluções inovadoras. Já atuei tanto no back-end quanto no front-end, utilizando Django, PostgreSQL, Bootstrap, Docker e Django Rest.</h3>
+<h3 align="center">A Full-stack Developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murilo831&label=Profile%20views&color=0e75b6&style=flat" alt="murilo831" /> </p>
 
 - 🔭 I’m currently working on [Payment Processing Platform](https://github.com/Murilo831/payment-processing-platform)
 
 - 🌱 I’m currently learning **Machine Learning and Flutter**
+
+- 👯 I’m looking to collaborate on [Ecommerce](https://github.com/Murilo831/greatsite-django)
 
 - 💬 Ask me about **Python, Django, Data Base**
 
