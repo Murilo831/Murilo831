@@ -1,40 +1,27 @@
-# Olá, eu sou Murilo Nogueira! 👋
+<h1 align="center">Hi 👋, I'm Murilo Nogueira</h1>
+<h3 align="center">Desenvolvedor Django com mais de 5 anos de experiência em programação e ciência de dados. Sou apaixonado por resolver problemas complexos e criar soluções inovadoras. Já atuei tanto no back-end quanto no front-end, utilizando Django, PostgreSQL, Bootstrap, Docker e Django Rest.</h3>
 
-Desenvolvedor Django com mais de 5 anos de experiência em programação e ciência de dados. Sou apaixonado por resolver problemas complexos e criar soluções inovadoras. Já atuei tanto no back-end quanto no front-end, utilizando Django, PostgreSQL, Bootstrap, Docker e Django Rest.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=murilo831&label=Profile%20views&color=0e75b6&style=flat" alt="murilo831" /> </p>
 
-## Habilidades
+- 🔭 I’m currently working on [Payment Processing Platform](https://github.com/Murilo831/payment-processing-platform)
 
-- Desenvolvimento Web: Django, React, Bootstrap
-- Banco de Dados: PostgreSQL
-- Containers: Docker
-- APIs: Django Rest Framework
-- Ciência de Dados: scikit-learn, Tensorflow, PyTorch
+- 🌱 I’m currently learning **Machine Learning and Flutter**
 
-## Projetos Atuais
+- 💬 Ask me about **Python, Django, Data Base**
 
-Atualmente, estou trabalhando em dois projetos emocionantes:
+- 📫 How to reach me **nmurilo164@gmail.com**
 
-1. **Ecommerce:** Desenvolvimento de uma plataforma de comércio eletrônico escalável e personalizada, utilizando as mais recentes tecnologias para proporcionar uma experiência de compra excepcional aos usuários.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nmurilo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nmurilo" height="30" width="40" /></a>
+<a href="https://medium.com/@nmurilo164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nmurilo164" height="30" width="40" /></a>
+</p>
 
-2. **Plataforma de Pagamento:** Estou envolvido na criação de uma plataforma de pagamento avançada, semelhante aos serviços do PayPal e Stripe, garantindo segurança e facilidade de uso para os usuários.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## Aprendendo
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murilo831&show_icons=true&locale=en&layout=compact" alt="murilo831" /></p>
 
-Além das minhas habilidades atuais, estou investindo tempo para aprender novos tópicos:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=murilo831&show_icons=true&locale=en" alt="murilo831" /></p>
 
-- Machine Learning: Aprofundando meus conhecimentos em algoritmos de aprendizado de máquina utilizando scikit-learn, Tensorflow e PyTorch.
-- Desenvolvimento Web: Explorando o mundo do desenvolvimento web com Flutter, buscando criar interfaces incríveis e interativas.
-
-## Tópicos de Conversa
-
-Adoro conversar sobre diversas áreas, incluindo:
-
-- Python: Compartilhando dicas, truques e boas práticas de programação.
-- Django: Trocando ideias sobre desenvolvimento web, estrutura de projetos e otimizações.
-- Desenvolvimento Web: Discutindo as últimas tendências em design de interfaces e tecnologias front-end/back-end.
-- Machine Learning: Compartilhando experiências em projetos de aprendizado de máquina e explorando novas abordagens.
-- Data Science: Conversando sobre análise de dados, visualização e insights a partir de conjuntos de dados complexos.
-
-## Contato
-
-Você pode entrar em contato comigo através do meu [LinkedIn](https://www.linkedin.com/in/seuperfil) ou pelo meu e-mail: seuemail@example.com.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murilo831&" alt="murilo831" /></p>
