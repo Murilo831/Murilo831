@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Payment Processing Platform](https://github.com/Murilo831/payment-processing-platform)
 
-- 🌱 I’m currently learning **Machine Learning and Flutter**
+- 🌱 I’m currently learning **Machine Learning and Data Science**
 
 - 👯 I’m looking to collaborate on [Ecommerce](https://github.com/Murilo831/greatsite-django)
 
