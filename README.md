@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Murilo Nogueira</h1>
-<h3 align="center">A Full-stack Developer from Brazil</h3>
+<h1 align="left">Hi 👋, I'm Murilo Nogueira</h1>
+<h3 align="left">A Full-stack Developer from Brazil</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murilo831&label=Profile%20views&color=0e75b6&style=flat" alt="murilo831" /> </p>
 
 - 🔭 I’m currently working on [Payment Processing Platform](https://github.com/Murilo831/payment-processing-platform)
