@@ -10,4 +10,3 @@
 
 - 💬 Ask me about **Python, Django, Data Base**
 
-- 📫 How to reach me **nmurilo164@gmail.com**
