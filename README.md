@@ -1,12 +1,27 @@
-<h1 align="left">Hi 👋, I'm Murilo Nogueira</h1>
-<h3 align="left">A Full-stack Developer from Brazil</h3>
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=murilo831&label=Profile%20views&color=0e75b6&style=flat" alt="murilo831" /> </p>-->
+# 👋 Hello! I'm Murilo Nogueira
+### 🌎 Full-stack Developer from Brazil with a focus on Django, Data Science, and Machine Learning
 
-- 🔭 I’m currently working on [Payment Processing Platform](https://github.com/Murilo831/payment-processing-platform)
+---
 
-- 🌱 I’m currently learning **Machine Learning and Data Science**
+## 🌟 About Me
+I'm a developer who sees code as both an art and a science. My passion is leveraging technology to craft efficient and innovative solutions, whether in web development with Django, gleaning insights through Data Science, or modeling intelligent systems with Machine Learning.
 
-- 👯 I’m looking to collaborate on [Ecommerce](https://github.com/Murilo831/greatsite-django)
+---
 
-- 💬 Ask me about **Python, Django, Data Base**
+## 🚀 Key Projects
 
+- **[Payment Processing Platform](https://github.com/Murilo831/payment-processing-platform)**: A dedicated solution to optimize and simplify online transactions.
+
+- **[Ecommerce with Django](https://github.com/Murilo831/greatsite-django)**: Harnessing the power of Django to deliver a robust and intuitive e-commerce experience.
+
+---
+
+## 🛠️ Languages & Skills
+
+- **Python & Django**: My primary web development stack, with experience in building and optimizing applications.
+  
+- **Machine Learning & Data Science**: An ongoing journey of learning and applying in projects to derive value from data.
+  
+- **Databases**: In-depth knowledge in database modeling, querying, and optimization.
+  
+- **Web Scraping & Web Crawling**: Proficiency in gathering, processing, and analyzing web data using specialized tools and libraries.
